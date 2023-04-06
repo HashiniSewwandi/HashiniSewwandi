@@ -5,4 +5,6 @@
 
 Here are some ideas to get you started:
 
+https://github.com/RazorKenway/README-Generator.git
+
 
