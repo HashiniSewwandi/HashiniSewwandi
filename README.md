@@ -17,7 +17,6 @@ My name is Hashini Sewwandi, and I am an undergraduate student at JISC Campuse, 
 </b></p>
 <br>
 <p>
-👨🏽‍💻 HELLO I’m Hashini Sewwandi ; <br>
 🔭 I am a student of Lithan Academy in Singapore<br>
 🤝 I am looking for a software developer job <br>
 🌱 I am pursuing software engineering degree< br><br>
