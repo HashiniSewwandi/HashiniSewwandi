@@ -67,7 +67,7 @@ My name is Hashini Sewwandi, and I am an undergraduate student at JISC Campuse, 
 <br>
 <div align="right">
 <a href="https://github.com/HashiniSewwandi">
-  <img align="left" alt="HashiniSewwandi's Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="HashiniSewwandi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.facebook.com/hashi.wagarachchi/"><img title="Facebook Page" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
 <a href="https://www.facebook.com/hashi.wagarachchi/"><img title="Facebook Page" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
