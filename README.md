@@ -20,7 +20,7 @@ My name is Hashini Sewwandi, and I am an undergraduate student at JISC Campuse, 
 👨🏽‍💻 HELLO I’m Hashini Sewwandi ; <br>
 🔭 I am a student of Lithan Academy in Singapore<br>
 🤝 I am looking for a software developer job <br>
-🌱 I am pursuing software engineering degree< br>
+🌱 I am pursuing software engineering degree< br><br>
 🍀 I am currently learning full stack techs such as NodeJS, Spring Boot, React, MongoDB, MySQL and more.<br>
 👯 I hope to cooperate with you all<br>
 💬 Ask me about anything, I am happy to help;<br>
