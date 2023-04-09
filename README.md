@@ -4,14 +4,11 @@
 <p align="center">
 	<a href="https://www.youtube.com/watch?v=EH-WYh-WE2M"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL Hashini-red?style=for-the-badge&logo=Youtube"></a>
 	<a href="https://www.facebook.com/hashi.wagarachchi/"><img title="Facebook Page" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
-	[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HashiniSewwandi)
 </p>
 
 <br>
-
 <!--rule -->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
 
 &nbsp;
 
